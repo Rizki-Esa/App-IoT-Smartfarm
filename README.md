@@ -1,10 +1,10 @@
 # Dokumentasi Foto Prototype IoT SmartFarm
 
 ### Prototype Pelontar Pakan
-<img width="100" height="150" alt="Pelontar Pakan" src="https://github.com/user-attachments/assets/a33e8026-c8cd-485c-bee2-1cd77a854ed2" />
+<img width="500" height="750" alt="Pelontar Pakan" src="https://github.com/user-attachments/assets/a33e8026-c8cd-485c-bee2-1cd77a854ed2" />
 
 ### Prototype Aerator
-<img width="1039" height="1000" alt="Aerator" src="https://github.com/user-attachments/assets/b30d1d2e-2aeb-4f3c-927e-517298c54c8d" />
+<img width="500" height="500" alt="Aerator" src="https://github.com/user-attachments/assets/b30d1d2e-2aeb-4f3c-927e-517298c54c8d" />
 
 ### Prototype Sensor
 <img width="1250" height="1000" alt="Sensor" src="https://github.com/user-attachments/assets/a55051ca-82d3-4f64-a586-63092ed455d3" />
