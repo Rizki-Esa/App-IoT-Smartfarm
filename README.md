@@ -7,7 +7,7 @@
 <img width="500" height="500" alt="Aerator" src="https://github.com/user-attachments/assets/b30d1d2e-2aeb-4f3c-927e-517298c54c8d" />
 
 ### Prototype Sensor
-<img width="1250" height="1000" alt="Sensor" src="https://github.com/user-attachments/assets/a55051ca-82d3-4f64-a586-63092ed455d3" />
+<img width="600" height="500" alt="Sensor" src="https://github.com/user-attachments/assets/a55051ca-82d3-4f64-a586-63092ed455d3" />
 
 # Link Vidio Demo Aplikasi SmartFarm
 Link GDrive : https://drive.google.com/drive/folders/1ustF-T44Lzk9xnpRewehroSwVmLbxCfB?usp=sharing
