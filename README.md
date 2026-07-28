@@ -9,6 +9,10 @@
 ### Prototype Sensor
 <img width="600" height="500" alt="Sensor" src="https://github.com/user-attachments/assets/a55051ca-82d3-4f64-a586-63092ed455d3" />
 
+### Gambaran Rangkaian Sistem Smart Aquaculture
+<img width="509" height="383" alt="image" src="https://github.com/user-attachments/assets/76588949-4db7-420d-b6dc-25eb47c2eefc" />
+
+
 # Link Vidio Demo Aplikasi SmartFarm
 Link GDrive : https://drive.google.com/drive/folders/1ustF-T44Lzk9xnpRewehroSwVmLbxCfB?usp=sharing
 
