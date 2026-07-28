@@ -2,13 +2,14 @@
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td valign="top" width="50%">
 
 ### Prototype Pelontar Pakan
 <img src="https://github.com/user-attachments/assets/a33e8026-c8cd-485c-bee2-1cd77a854ed2" width="350"/>
 
 </td>
-<td align="center" width="50%">
+
+<td valign="top" width="50%">
 
 ### Prototype Aerator
 <img src="https://github.com/user-attachments/assets/b30d1d2e-2aeb-4f3c-927e-517298c54c8d" width="350"/>
@@ -17,13 +18,14 @@
 </tr>
 
 <tr>
-<td align="center">
+<td valign="top">
 
 ### Prototype Sensor
 <img src="https://github.com/user-attachments/assets/a55051ca-82d3-4f64-a586-63092ed455d3" width="350"/>
 
 </td>
-<td align="center">
+
+<td valign="top">
 
 ### Gambaran Rangkaian Sistem Smart Aquaculture
 <img src="https://github.com/user-attachments/assets/76588949-4db7-420d-b6dc-25eb47c2eefc" width="350"/>
@@ -31,7 +33,6 @@
 </td>
 </tr>
 </table>
-
 
 # Link Vidio Demo Aplikasi SmartFarm Aquaculture
 Link GDrive : https://drive.google.com/drive/folders/1ustF-T44Lzk9xnpRewehroSwVmLbxCfB?usp=sharing
