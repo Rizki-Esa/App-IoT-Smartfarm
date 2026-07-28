@@ -1,10 +1,21 @@
-# Link Vidio Demo Aplikasi
+# Dokumentasi Foto Prototype IoT SmartFarm
+
+### Prototype Pelontar Pakan
+<img width="2124" height="3106" alt="Pelontar Pakan" src="https://github.com/user-attachments/assets/a33e8026-c8cd-485c-bee2-1cd77a854ed2" />
+
+### Prototype Aerator
+<img width="2078" height="2000" alt="Aerator" src="https://github.com/user-attachments/assets/b30d1d2e-2aeb-4f3c-927e-517298c54c8d" />
+
+### Prototype Sensor
+<img width="2500" height="2000" alt="Sensor" src="https://github.com/user-attachments/assets/a55051ca-82d3-4f64-a586-63092ed455d3" />
+
+# Link Vidio Demo Aplikasi SmartFarm
 Link GDrive : https://drive.google.com/drive/folders/1ustF-T44Lzk9xnpRewehroSwVmLbxCfB?usp=sharing
 
-# Desain Figma Smart App Aquaculture
+# Desain Figma SmartFarm App
 Link Figma High Fidelity : https://www.figma.com/design/HrD9DUBxa3wY8k8kyggjcA/High-Fidelity---Aplikasi-Sadewa-SmartFarm?node-id=0-1&t=bLOjM4lI8JK7XekC-1
 
-# Tools & Teknologi
+# Tools & Teknologi SmartFarm App
 
 - **Express.js** (Backend Framework)
 - **MongoDB** (Database NoSQL untuk menyimpan data)
@@ -14,7 +25,7 @@ Link Figma High Fidelity : https://www.figma.com/design/HrD9DUBxa3wY8k8kyggjcA/H
 - **Android Studio** (Development Environment Frontend)
 
 
-## Sadewa Smart Farm Backend
+## SmartFarm Backend
 
 Repository ini merupakan backend service untuk aplikasi **Sadewa Smart Farm** yang dibangun menggunakan **Node.js (Express.js)** dan berfungsi sebagai jembatan antara aplikasi Flutter dan layanan database seperti **Firebase Realtime Database** serta **MongoDB**.
 
@@ -75,7 +86,7 @@ Tambahkan file firebase-admin.json ke direktori root. File ini dapat diunduh dar
 ```
 
 
-## Sadewa Smart Farm Frontend
+## SmartFarm Frontend
 
 Pada file `api_service.dart` terdapat base URL API yang menghubungkan antara backend dengan frontend.
 
@@ -135,9 +146,8 @@ Hasilnya akan menampilkan IP lokal seperti:
 192.168.xx.xx
 ```
 
-## Demo Aplikasi Sadewa SmartFarm
+## Akses Aplikasi SmartFarm
 
-Link : https://drive.google.com/file/d/1akyf0TUGt9GOMqQclR330VK4K0ysUqes/view?usp=sharing
 
 Pengguna dapat mengakases aplikasi dengan Root User sebagai berikut:
 
