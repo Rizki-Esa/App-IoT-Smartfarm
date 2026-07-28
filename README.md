@@ -27,6 +27,14 @@
 
 <td valign="top">
 
+### Protoype Box Controller
+<img width="1365" height="768" alt="Box Controller" src="https://github.com/user-attachments/assets/c400aa67-73e7-48cc-8379-9b22c97f5274" />
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 ### Gambaran Rangkaian Sistem Smart Aquaculture
 <img src="https://github.com/user-attachments/assets/76588949-4db7-420d-b6dc-25eb47c2eefc" width="350"/>
 
