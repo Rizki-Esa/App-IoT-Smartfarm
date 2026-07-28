@@ -1,25 +1,45 @@
-# Dokumentasi Foto Prototype IoT SmartFarm
+# Dokumentasi Foto IoT SmartFarm Aquaculture
+
+<table>
+<tr>
+<td align="center" width="50%">
 
 ### Prototype Pelontar Pakan
-<img width="500" height="750" alt="Pelontar Pakan" src="https://github.com/user-attachments/assets/a33e8026-c8cd-485c-bee2-1cd77a854ed2" />
+<img src="https://github.com/user-attachments/assets/a33e8026-c8cd-485c-bee2-1cd77a854ed2" width="350"/>
+
+</td>
+<td align="center" width="50%">
 
 ### Prototype Aerator
-<img width="500" height="500" alt="Aerator" src="https://github.com/user-attachments/assets/b30d1d2e-2aeb-4f3c-927e-517298c54c8d" />
+<img src="https://github.com/user-attachments/assets/b30d1d2e-2aeb-4f3c-927e-517298c54c8d" width="350"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
 
 ### Prototype Sensor
-<img width="600" height="500" alt="Sensor" src="https://github.com/user-attachments/assets/a55051ca-82d3-4f64-a586-63092ed455d3" />
+<img src="https://github.com/user-attachments/assets/a55051ca-82d3-4f64-a586-63092ed455d3" width="350"/>
+
+</td>
+<td align="center">
 
 ### Gambaran Rangkaian Sistem Smart Aquaculture
-<img width="509" height="383" alt="image" src="https://github.com/user-attachments/assets/76588949-4db7-420d-b6dc-25eb47c2eefc" />
+<img src="https://github.com/user-attachments/assets/76588949-4db7-420d-b6dc-25eb47c2eefc" width="350"/>
+
+</td>
+</tr>
+</table>
 
 
-# Link Vidio Demo Aplikasi SmartFarm
+# Link Vidio Demo Aplikasi SmartFarm Aquaculture
 Link GDrive : https://drive.google.com/drive/folders/1ustF-T44Lzk9xnpRewehroSwVmLbxCfB?usp=sharing
 
-# Desain Figma SmartFarm App
+# Desain Figma SmartFarm Aquaculture App
 Link Figma High Fidelity : https://www.figma.com/design/HrD9DUBxa3wY8k8kyggjcA/High-Fidelity---Aplikasi-Sadewa-SmartFarm?node-id=0-1&t=bLOjM4lI8JK7XekC-1
 
-# Tools & Teknologi SmartFarm App
+# Tools & Teknologi SmartFarm Aquaculture App
 
 - **Express.js** (Backend Framework)
 - **MongoDB** (Database NoSQL untuk menyimpan data)
@@ -29,7 +49,7 @@ Link Figma High Fidelity : https://www.figma.com/design/HrD9DUBxa3wY8k8kyggjcA/H
 - **Android Studio** (Development Environment Frontend)
 
 
-## SmartFarm Backend
+## SmartFarm Aquaculture Backend
 
 Repository ini merupakan backend service untuk aplikasi **Sadewa Smart Farm** yang dibangun menggunakan **Node.js (Express.js)** dan berfungsi sebagai jembatan antara aplikasi Flutter dan layanan database seperti **Firebase Realtime Database** serta **MongoDB**.
 
@@ -90,7 +110,7 @@ Tambahkan file firebase-admin.json ke direktori root. File ini dapat diunduh dar
 ```
 
 
-## SmartFarm Frontend
+## SmartFarm Aquaculture Frontend
 
 Pada file `api_service.dart` terdapat base URL API yang menghubungkan antara backend dengan frontend.
 
@@ -150,7 +170,7 @@ Hasilnya akan menampilkan IP lokal seperti:
 192.168.xx.xx
 ```
 
-## Akses Aplikasi SmartFarm
+## Akses Aplikasi SmartFarm Aquaculture
 
 
 Pengguna dapat mengakases aplikasi dengan Root User sebagai berikut:
